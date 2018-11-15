@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Task.cs](./CS/ActionAttributeExample.Module/BusinessObjects/Task.cs) (VB: [Task.vb](./VB/ActionAttributeExample.Module/BusinessObjects/Task.vb))
+<!-- default file list end -->
 # How to: Create an Action Using the ActionAttribute
 
 
